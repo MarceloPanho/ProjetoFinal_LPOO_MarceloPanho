@@ -33,8 +33,8 @@ Swing (javax.swing)
 
 JPA / Hibernate para persistência
 
-Banco de Dados relacional (ex: MySQL, PostgreSQL ou H2)
+Banco de Dados relacional (PostgreSQL)
 
-Maven (opcional, se usado)
+Maven 
 
 ![Diagrama_LPOO](https://github.com/user-attachments/assets/ee99d366-c1d1-46cb-b93f-a2972cf1ee8d)
